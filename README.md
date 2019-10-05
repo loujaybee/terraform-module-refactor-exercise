@@ -1,6 +1,8 @@
 
 ## Getting Started
 
+You'll need a [working AWS account](https://aws.amazon.com) and [Terraform installed](https://learn.hashicorp.com/terraform/getting-started/install.html) before you can start the tutorial. 
+
 ### Step 1: Setup a provider, for instance I am using an S3 backend.
 
 * Make a file called `backend.tf`
